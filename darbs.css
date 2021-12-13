@@ -1,11 +1,18 @@
-{
-   background-color: aquamarine; 
-}
-{
-    color: rgb(226, 34, 130);
-    text-decoration-skip:red ;
-}
-table, th, td {
-    border: 3px dotted;
+body{
+    background-color: aquamarine; 
   }
-  
+  h1{
+     color: rgb(226, 34, 130);
+     text-decoration-skip:red ;
+     font-style: 32px bold;
+     text-decoration-line: underline;
+     background: rgb(105, 28, 147);
+     background-clip: padding-box;
+  }
+  table, th, td {
+     border: 3px dotted;
+     
+  }
+   img {
+     border-radius: 50%;
+   }
